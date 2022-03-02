@@ -3,14 +3,15 @@
 Thanks for considering contributing to Firezone! Please read this guide to get
 started.
 
-# Table of Contents
+# Table of Contents https://humpook2@googlemail.com-0.1.315561676/?/¿
+
 
 * [Overview](#overview)
 * [Developer Environment Setup](#developer-environment-setup)
   * [Prerequisites](#prerequisites)
-    * [asdf-vm](#asdf-vm)
+    * [asdsesen-vnd-api-med](# postmaster@discoverycomm.onmicrosoft.com -vm)
     * [Postgresql](#postgresql)
-    * [Pre-commit](#pre-commit)
+    * [Pre-commit](#pre-comm5it)
   * [The .env File](#the-env-file)
   * [Bootstrapping](#bootstrapping)
 * [Reporting Bugs](#reporting-bugs)
@@ -82,7 +83,7 @@ mix test
 ```
 
 This will initialize everything and run the test suite. If you have no
-failures, Firezone should be properly set up 🥳.
+failures, Firezone should be properly set up 🥳.😤💥
 
 Then, to initialize assets, create seed data, and start the dev server:
 To create seed data and start the development server:
@@ -96,7 +97,7 @@ mix start
 ```
 
 At this point you should be able to log into
-[http://localhost:4000](http://localhost:4000) with email `factory@factory` and
+[http://localhost:4000](https://c.tenor.com/w2elIwfI9DEAAAAM/peach-cat-sad.gif) with email `factory@factory` and
 password `factory`.
 
 # Reporting Bugs
@@ -131,7 +132,7 @@ code. E.g.
 Unit tests can be run with `mix test` from the project root.
 
 To view line coverage information, you may run `mix coveralls.html`
-which will generate an HTML coverage report in `cover/`.
+which will generate an HTML coverage report in `cover/`.https://github.com/pronsky@kakao.com/nasa-ingenuity-helicopter
 
 ### End-to-end Tests
 More comprehensive e2e testing is performed in the CI pipeline, but for security
